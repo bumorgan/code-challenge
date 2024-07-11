@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "A22855F9-BBBA-4E77-90A0-F7F92111E332",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:code-challenge.xcodeproj",
+      "identifier" : "0F335CDD2C1B738000EF53ED",
+      "name" : "code-challenge"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:code-challenge.xcodeproj",
+        "identifier" : "0F335CED2C1B738200EF53ED",
+        "name" : "code-challengeTests"
+      }
+    }
+  ],
+  "version" : 1
+}
