@@ -15,6 +15,6 @@ extension FlickrListResponse {
 
 extension FlickrItem {
     static var mock: FlickrItem {
-        .init(title: "Title", media: ["m": ""], author: "Author", description: "Description")
+        .init(title: "Title", media: ["m": ""], author: "Author", description: "Description", published: "Published")
     }
 }
